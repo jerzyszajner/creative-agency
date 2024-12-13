@@ -32,7 +32,7 @@ body {
     color: #ffffff;
     background-position: 100% 0;
     background-size: 300%;
-    transition: all 1s;
+    transition: all 0.5s;
 }
 
 .btn:hover {
@@ -97,7 +97,7 @@ section {
 
 .container a:hover {
     color: #0097e6;
-    transition: all 1s;
+    transition: all 0.5s;
 }
 
 .navigation ul ul li {
@@ -161,6 +161,7 @@ section {
 
 .page-title span {
     font-style: italic;
+    color: #5eff02;
 }
 
 .btn-one {
@@ -263,7 +264,7 @@ section {
     height: 100%;
     width: 100%;
     opacity: 0.5;
-    transition: all 2s;
+    transition: all 0.5s;
     margin: auto;
 }
 
@@ -442,7 +443,7 @@ section {
         height: 100%;
         width: 100%;
         opacity: 0.5;
-        transition: all 2s;
+        transition: all 0.5s;
     }
 
     .work-img:hover::after {
